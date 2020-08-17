@@ -1,6 +1,6 @@
 Nice to meet you! I'm a young Computer Science student and software developer, currently based in Udine, Italy. I love both writing code and understanding the theory that makes things work the way they do. In my future I'd love to work as a researcher in the Computer Science field.
 
-In my free time I like playing both the piano and the guitar, but I also love hiking in the mountains.
+In my free time I like playing both the piano and the guitar, but I also love hiking in the mountains. Reach me out on my socials!
 
 <!-- Links -->
 <p align="center">
