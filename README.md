@@ -1,4 +1,5 @@
-<!-- GitHub -->
+<p>
+  <!-- GitHub -->
   <a href="https://github.com/davidedellagiustina">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?logo=github&logoColor=white">
   </a>
@@ -18,6 +19,7 @@
   <a href="https://stackoverflow.com/users/8851982/davide-della-giustina">
     <img src="https://img.shields.io/badge/-StackOverflow-%23fe7a16?logo=stack-overflow&logoColor=white">
   </a>
+</p>
 
 Nice to meet you! I'm a young Computer Science student and software developer, currently based in Udine, Italy. I love both writing code and understanding the theory that makes things work the way they do. In my future I'd love to work as a researcher in the Computer Science field.
 
