@@ -1,3 +1,7 @@
+Nice to meet you! I'm a young Computer Science student and software developer, currently based in Udine, Italy. I love both writing code and understanding the theory that makes things work the way they do. In my future I'd love to work as a researcher in the Computer Science field.
+
+In my free time I like playing both the piano and the guitar, but I also love hiking in the mountains.
+
 <!-- Links -->
 <p align="center">
   <!-- GitHub -->
@@ -21,7 +25,3 @@
     <img src="https://img.shields.io/badge/-StackOverflow-%23fe7a16?logo=stack-overflow&logoColor=white">
   </a>
 </p>
-
-Nice to meet you! I'm a young Computer Science student and software developer, currently based in Udine, Italy. I love both writing code and understanding the theory that makes things work the way they do. In my future I'd love to work as a researcher in the Computer Science field.
-
-In my free time I like playing both the piano and the guitar, but I also love hiking in the mountains. Below you can find some of my socials to reach me out.
