@@ -1,6 +1,6 @@
-Nice to meet you! I'm a young Computer Science student and software developer, currently based in Udine, Italy. I love both writing code and understanding the theory that makes things work the way they do. In my future I'd love to work as a researcher in the Computer Science field.
+Hello! My name is Davide and I am a 21-year-old Computer Science student at the Scuola Superiore of the University of Udine, in Italy. I consider myself a very curious person and I love both writing code and understanding the theory that makes things work the way they do. My current main interests include artificial intelligence, algorithms and quantum computing.
 
-In my free time I like playing both the piano and the guitar, but I also love hiking in the mountains. Reach me out on my socials!
+I am also really into music and I can play both the guitar and the piano, but in my free time I also love playing tennis and hiking in the mountains. Reach me out on my socials!
 
 <!-- Links -->
 <p align="center">
