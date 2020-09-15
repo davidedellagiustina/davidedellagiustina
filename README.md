@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" width="65%">
+  <img src="./banner.png" width="65%">
 </p>
 
 <!-- Links -->
