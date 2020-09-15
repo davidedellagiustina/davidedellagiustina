@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" width="65%">
+  <img src="https://raw.githubusercontent.com/davidedellagiustina/davidedellagiustina/master/banner.png" width="65%">
 </p>
 
 <!-- Links -->
