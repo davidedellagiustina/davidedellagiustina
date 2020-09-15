@@ -1,6 +1,7 @@
-Hello! My name is Davide and I am a 21-year-old Computer Science student at the Scuola Superiore of the University of Udine, in Italy. I consider myself a very curious person and I love both writing code and understanding the theory that makes things work the way they do. My current main interests include artificial intelligence, algorithms and quantum computing.
-
-I am also really into music and I can play both the guitar and the piano, but in my free time I also love playing tennis and hiking in the mountains. Reach me out on my socials!
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" width="65%">
+</p>
 
 <!-- Links -->
 <p align="center">
@@ -25,3 +26,8 @@ I am also really into music and I can play both the guitar and the piano, but in
     <img src="https://img.shields.io/badge/-StackOverflow-%23fe7a16?logo=stack-overflow&logoColor=white">
   </a>
 </p>
+
+<!-- Presentation -->
+Hello! My name is Davide and I am a 21-year-old Computer Science student at the Scuola Superiore of the University of Udine, in Italy. I consider myself a very curious person and I love both writing code and understanding the theory that makes things work the way they do. My current main interests include artificial intelligence, algorithms and quantum computing.
+
+I am also really into music and I can play both the guitar and the piano, but in my free time I also love playing tennis and hiking in the mountains. Reach me out on my socials!
