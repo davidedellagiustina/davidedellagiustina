@@ -28,6 +28,6 @@
 </p>
 
 <!-- Presentation -->
-Hello! My name is Davide and I am a 21-year-old Computer Science student at the Scuola Superiore of the University of Udine, in Italy. I consider myself a very curious person and I love both writing code and understanding the theory that makes things work the way they do. My current main interests include artificial intelligence, algorithms, quantum computing and cyber security.
+Hello! My name is Davide and I am a 22-year-old Computer Science student at the Scuola Superiore of the University of Udine, in Italy. I consider myself a very curious person and I love both writing code and understanding the theory that makes things work the way they do. My current main interests include artificial intelligence, algorithms, quantum computing and cyber security.
 
 I am also really into music and I can play both the guitar and the piano, but in my free time I also love playing tennis and hiking in the mountains. Reach me out on my socials!
