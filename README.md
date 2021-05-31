@@ -25,6 +25,10 @@
   <a href="https://stackoverflow.com/users/8851982/davide-della-giustina">
     <img src="https://img.shields.io/badge/-StackOverflow-%23fe7a16?logo=stack-overflow&logoColor=white">
   </a>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/davidedellagiustina">
+    <img src="https://img.shields.io/badge/-Kaggle-%2320beff?logo=kaggle&logoColor=white">
+  </a>
 </p>
 
 <!-- Presentation -->
