@@ -36,6 +36,6 @@ Hey there! 😊
 
 My name is Davide and I am a 23-year-old Computer Science master student at the Scuola Superiore of the University of Udine, in Italy. I consider myself a very curious person and I love both getting my hands dirty and understanding the theory that makes things work the way they do. My current main interests include embedded devices, machine learning and artificial intelligence, algorithms, quantum computing, and cyber security.
 
-In my free time I'm currently trying to get healthier: I like working out at the gym and hiking in the mountains, but sometimes I also like to play some tennis.
+In my free time I'm currently trying to get healthier: I like working out at the gym, hiking in the mountains and climbing, but sometimes I also like to play some tennis.
 
 Feel free to reach me on my socials to get in touch!
