@@ -34,7 +34,7 @@
 <!-- Presentation -->
 Hey there! 😊
 
-My name is Davide and I am a 24-year-old Computer Science master student at the Scuola Superiore Universitaria "Di Toppo Wassermann" of the University of Udine, in Italy. I consider myself a very curious person and I love both getting my hands dirty and understanding the theory that makes things work the way they do. My current main interests include embedded software development for aerospace and automotive, cyber security, and quantum computing.
+My name is Davide and I am a 24-year-old Computer Science master student at the Superiore Universitaria "Di Toppo Wassermann" of the University of Udine, in Italy. I consider myself a very curious person and I love both getting my hands dirty and understanding the theory that makes things work the way they do. My current main interests include embedded software development for aerospace and automotive, cyber security, and quantum computing.
 
 In my free time I'm currently trying to get healthier: I like working out at the gym, hiking in the mountains and climbing, but sometimes I also like to play some tennis.
 
